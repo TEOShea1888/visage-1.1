@@ -1,4 +1,4 @@
-site_id,northing,easting,dataset,QualityScore
+site_id,northing,easting,dataset,quality
 0,207104.2812,455197.0424,sssi_england,0.5247240713084176
 1,207523.9221,451939.7613,sssi_england,0.8704285838459498
 2,208509.771,449379.1801,sac_england,0.7391963650868432
